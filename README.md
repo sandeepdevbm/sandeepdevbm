@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Brototype as an intern.<br>👯 I’m looking to collaborate on projects.<br>🤝 I’m looking for help with JWT implementation.<br>🌱 I’m currently learning about data structures and react.js.<br>💬 Ask me about MERN Stack.<br>⚡ Fun fact : perception equals reality
+I am currently working as a freelancer, delivering high quality projects that meet client requirements
+🔭 worked on Brototype as an intern.<br>👯 I’m looking to collaborate on projects.<br>🤝 I’m looking for help with JWT implementation.<br>🌱 I’m currently learning about data structures and react.js.<br>💬 Ask me about MERN Stack.<br>⚡ Fun fact : perception equals reality
 
 
 ## 🌐 Socials:
